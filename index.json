@@ -1,0 +1,171 @@
+[
+{
+	"uri": "https://tekhint.com/about/",
+	"date": "April 09, 2014",
+	"datetime": "2014-04-09T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "About Tekhint",
+	"section": "",
+	"tags": [],
+	"content": "Tekhint is my hub for posting techtips and hints.\nThanks for reading!\n"
+},
+{
+	"uri": "https://tekhint.com/privacy-policy/",
+	"date": "April 09, 2014",
+	"datetime": "2014-04-09T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Privacy policy",
+	"section": "",
+	"tags": [],
+	"content": "I dont need anyones privacy, it\u0026rsquo;s all yours.\nThanks for reading!\n"
+},
+{
+	"uri": "https://tekhint.com/guides/how-to-browse-safe-and-fast-without-ads/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "images/hints/ublock/ublockthumb.png",
+	"title": "BROWSE SAFE AND FAST WITHOUT ADS",
+	"section": "guides",
+	"tags": ["ads", "ublock origin", "mac", "safari", "firefox", "chrome"],
+	"content": " How to remove ads For desktop Here is how to remove all internet ads, to enhance your browsing experience. All you need is a handy plugin for your browser. The go-to and most recommended option at this time is one called uBlock Origin. This is not only an ad blocker but also a “wide-spectrum blocker” which will block malware sites and trackers. All these features makes this the ultimate choice for fast and safe browsing.\nIf you already have another ad block plugin, delete that first, as uBlock Origin will be faster because of better ram and CPU management. It is also better at blocking ads than the alternatives like Adblock Plus with its “acceptable ads policy”.\nDirect links to uBlock Origin installation for the different browsers:\nFirefox\nChrome\nFOR EDGE ON WINDOWS 10:  Open Edge\n Click the 3 dots to open the menu\n Click on «extensions»\n   Then click “Get extensions from the store”, to go Microsoft store where you can install plugins and find uBlock Origin.\nIf you are on Mac and use Safari, you can also get uBlock Origin with a bit more hassle, as you need to manually download and install it. Here is an easy step-by-step guide on how to get uBlock Origin for Safari on a Mac.\nHOW TO BUILD UBLOCK ORIGIN EXTENSION FOR SAFARI ON MAC There is currently no easier way to get this extension on safari, but it is worth it. First, you need to follow these steps to download the files needed and then use some magic to build the extension so it’s ready to be installed in Safari.\n Create a new folder called “ublock” on your desktop, and download these two zip files and unzip in your new “ublock” folder:\nhttps://github.com/el1t/uBlock-Safari/archive/safari.zip\nhttps://github.com/uBlockOrigin/uAssets/archive/master.zip\n Now you should have two folders called “uAssets” and “uBlock-Safari” or something like that in your “ublock” folder.\n Open up the terminal. You can do this by e.g searching for terminal in the spotlight search.\n   In the terminal write: cd desktop/ublock/ublock-safari\n In the terminal still, write: ./tools/make-safari.sh\n Still in terminal copy and paste or write this line:\n   echo ‘Output is in dist/build/uBlock.safariextension‘\n Now you can go on to install the uBlock Origin extension.\nHOW TO INSTALL ORIGIN UBLOCK IN SAFARI ON A MAC If you followed all these steps correctly, you should have uBlock Origin installed and working correctly in your Safari browser on a Mac. If you have any questions or problems just leave a comment.\n"
+},
+{
+	"uri": "https://tekhint.com/guides/netflix-memory-leak/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "images/hints/netflix/memleakthumb.jpg",
+	"title": "NETFLIX MEMORY LEAK QUICK FIX!",
+	"section": "guides",
+	"tags": ["netflix", "memoryleak"],
+	"content": " Have you ever watched Netflix and suddenly the whole thing stops and tells you to close the app, because it’s running low on memory?\nNetflix Close programs to prevent information loss\nIn addition, your task manager looks like this.\nIf so here is an easy solution to the Netflix memory leak problem.\nInstead of watching Netflix through the app, you can use Microsoft’s Windows 10 internet browser – Edge. It works perfectly for Netflix, as the only browser at this moment that can handle 4k content on Netflix. If you are using a Mac, Safari can handle 1080p so you would want to use that over Firefox and Chrome as they both max out on 720p.\nSource\nHOW TO FIX NETFLIX MEMORY LEAK "
+},
+{
+	"uri": "https://tekhint.com/tags/ads/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Ads",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/categories/",
+	"date": "January 01, 0001",
+	"datetime": "0001-01-01T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Categories",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/chrome/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Chrome",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/firefox/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Firefox",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/categories/guides/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Guides",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/guides/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Guides",
+	"section": "guides",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/mac/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Mac",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/memoryleak/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Memoryleak",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/netflix/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Netflix",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/safari/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Safari",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Tags",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/",
+	"date": "April 09, 2014",
+	"datetime": "2014-04-09T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Tekhint",
+	"section": "",
+	"tags": [],
+	"content": ""
+},
+{
+	"uri": "https://tekhint.com/tags/ublock-origin/",
+	"date": "April 02, 2014",
+	"datetime": "2014-04-02T00:00:00",
+	"thumbnail": "<no value>",
+	"title": "Ublock Origin",
+	"section": "",
+	"tags": [],
+	"content": ""
+}]
